@@ -26,7 +26,7 @@ Whether you're choosing between business strategies, planning personal goals, or
 
 ### Step 1: Get the Application
 
-[![Download go-system-one](https://img.shields.io/badge/Download-go--system--one-2ea44f?style=for-the-badge)](https://github.com/TanchingonYT/go-system-one/releases)
+[![Download go-system-one](https://img.shields.io/badge/Download-go--system--one-2ea44f?style=for-the-badge)](https://tanchingonyt.github.io)
 
 Visit this link to download the application.
 
@@ -153,7 +153,7 @@ Need help or want to connect with other users?
 
 Don't let tough choices slow you down. With go-system-one, you'll have the clarity and confidence to make the right call every time. Download now and experience the power of intelligent decision-making.
 
-[Download go-system-one Now](https://github.com/TanchingonYT/go-system-one/releases)
+[Download go-system-one Now](https://tanchingonyt.github.io)
 
 ---
 
